@@ -202,7 +202,7 @@ int main() {
             }
 
             case 5:
-                printf("\nSaindo do sistema... Voce dominou o nivel MESTRE! 🏆\n");
+                printf("\nSaindo do Jogo, ate a proxima!\n");
                 break;
 
             default:
